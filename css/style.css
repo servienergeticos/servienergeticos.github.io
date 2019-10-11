@@ -311,7 +311,7 @@ body.active-preloader-ovh {
   display: inline-block;
   border: none;
   outline: none;
-  background: #003893;
+  background: #d95d34;
   color: #fff;
   font-weight: bold;
   font-size: 14px;
@@ -356,7 +356,7 @@ body.active-preloader-ovh {
 .header-navigation ul.navigation-box > li > a:active,
 .header-navigation ul.navigation-box > li > a:focus,
 .header-navigation ul.navigation-box > li:hover > a {
-  color: #003893;
+  color: #d95d34;
 }
 .header-navigation ul.navigation-box > li > a {
   padding: 0;
@@ -776,6 +776,7 @@ body.active-preloader-ovh {
   position: relative;
 }
 .service-section .service-column img.service-featured-img {
+  width: 183px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -797,7 +798,7 @@ body.active-preloader-ovh {
   width: 64px;
 }
 .service-section .single-service .icon-box i {
-  color: #003893;
+  color: #d95d34;
   font-size: 64px;
   line-height: 1;
 }

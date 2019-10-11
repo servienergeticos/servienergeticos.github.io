@@ -929,7 +929,7 @@ body.active-preloader-ovh {
   width: 70px;
 }
 .fun-fact-section .fun-fact-wrap .single-fun-fact .icon-box i {
-  color: #003893;
+  color: #d95d34;
   font-size: 70px;
   line-height: 1;
 }
@@ -990,7 +990,7 @@ body.active-preloader-ovh {
   display: inline-block;
   border: none;
   outline: none;
-  background: #003893;
+  background: #d95d34;
   color: #fff;
   font-weight: bold;
   font-size: 14px;
@@ -1528,7 +1528,7 @@ body.active-preloader-ovh {
   padding: 35px 0;
 }
 .cta-style-one a.cta-btn {
-  background: #0E0F1F;
+  background: #d95d34;
   color: #fff;
   font-weight: bold;
   font-size: 14px;
@@ -1667,7 +1667,7 @@ footer.footer .thm-container ul.list-inline li + li {
 .footer-bottom .right-stt .scroll-to-top {
   width: 70px;
   height: 70px;
-  background: #003893;
+  background: #d95d34;
   border-top-left-radius: 50%;
   border-top-right-radius: 50%;
   color: #fff;

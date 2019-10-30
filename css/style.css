@@ -476,8 +476,8 @@ body.active-preloader-ovh {
           box-shadow: none;
 }
 .header-navigation.stricky-fixed .thm-container .navbar-brand {
-  padding-top: 27px;
-  padding-bottom: 27px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .header-navigation.stricky-fixed ul.navigation-box > li {
   padding-top: 30px;

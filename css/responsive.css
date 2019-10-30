@@ -11,6 +11,10 @@
     bottom: 30px;
   }
 
+  .icon-mobile {
+    display: block;
+  }
+
   #minimal-bootstrap-carousel { margin-top: 90px; }
 
     .header-navigation {margin-bottom: 0;}

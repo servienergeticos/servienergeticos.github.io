@@ -756,12 +756,22 @@ body.active-preloader-ovh {
   line-height: 70px;
   margin-bottom: 40px;
 }
+.about-section .about-content h4 {
+  margin: 0;
+  color: #0E0F1F;
+  font-family: 'Merriweather';
+  font-weight: bold;
+  letter-spacing: -0.01em;
+  font-size: 40px;
+  line-height: 50px;
+  margin-bottom: 30px;
+}
 .about-section .about-content p {
   margin: 0;
   color: #616277;
 }
 .about-section .about-content p + p {
-  margin-top: 25px;
+  margin-top: 20px;
 }
 
 /**************************
@@ -807,6 +817,7 @@ body.active-preloader-ovh {
 }
 .service-section .single-service .text-box h3 {
   margin: 0;
+  margin-top: 16px;
   color: #fff;
   font-family: 'Merriweather';
   font-size: 26px;

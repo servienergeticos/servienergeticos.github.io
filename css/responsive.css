@@ -1,4 +1,9 @@
 @media(max-width: 1024px) {
+
+  #contact-google-map {
+    margin-top: -70px;
+  }
+
   .money-icon-mobile {
     position: relative;
     top: 30px;

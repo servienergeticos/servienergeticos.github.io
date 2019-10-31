@@ -1083,13 +1083,16 @@ body.active-preloader-ovh {
 /**************************
 * 9. photo gallery styles
 ***************************/
-.photo-gallery {
+/* .photo-gallery {
   background: #0E0F1F;
   padding-top: 120px;
   padding-bottom: 90px;
 }
 .photo-gallery h2 {
   color: #F3F3F3;
+} */
+.photo-gallery {
+  margin-top: 60px;
 }
 .photo-gallery .masonary-layout [class*='col-md'] {
   margin-bottom: 30px;
@@ -1698,5 +1701,6 @@ footer.footer .thm-container ul.list-inline li + li {
 }
 
 #contact-google-map {
+  margin-top: -130px;
   height: 500px;
 }
